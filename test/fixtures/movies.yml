@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  duration: 2019-03-21 00:11:58
+  year: 2019-03-21
+  rating: MyString
+  description: MyString
+  image_url: MyString
+
+two:
+  name: MyString
+  duration: 2019-03-21 00:11:58
+  year: 2019-03-21
+  rating: MyString
+  description: MyString
+  image_url: MyString
